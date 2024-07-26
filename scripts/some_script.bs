@@ -1,0 +1,3 @@
+print("Hello from BlueScript!");
+var x = 42;
+print("The value of x is", x);
